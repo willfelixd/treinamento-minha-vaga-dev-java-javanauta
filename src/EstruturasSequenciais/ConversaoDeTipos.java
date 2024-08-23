@@ -1,3 +1,5 @@
+package EstruturasSequenciais;
+
 public class ConversaoDeTipos {
     public static void main(String[] args) {
         int numero = 10;

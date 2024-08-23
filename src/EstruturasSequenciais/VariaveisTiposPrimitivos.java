@@ -1,3 +1,5 @@
+package EstruturasSequenciais;
+
 public class VariaveisTiposPrimitivos {
 
     public static void main(String[] args) {
